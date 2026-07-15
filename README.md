@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Attendance Recording System
 Capstone Project 2 (IT-CPSTONE40/IT-CPSTONE42) — Python + SQLite
 
@@ -50,3 +51,6 @@ Capstone Project 2 (IT-CPSTONE40/IT-CPSTONE42) — Python + SQLite
 - Deleting a Department that still has Employees, or an Employee that
   still has Attendance records, is blocked to protect referential
   integrity (mirrors the FK relationships in the data dictionary).
+=======
+# Menu-form
+>>>>>>> 7672728a8d4dc95f8fec2182671eae8a7f6ed1eb
